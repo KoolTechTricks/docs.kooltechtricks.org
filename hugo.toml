@@ -1,0 +1,47 @@
+baseURL = 'https://docs.kooltechtricks.org/'
+languageCode = 'ru-ru'
+title = 'Документация Kool Tech Tricks'
+theme = 'hextra' # https://imfing.github.io/hextra/docs
+
+defaultContentLanguage = 'ru'
+enableGitInfo = true
+
+[menus]
+  [[menus.main]]
+    name = 'Основной сайт'
+    url = 'https://kooltechtricks.org'
+    weight = 1
+  [[menus.main]]
+    name = 'Блог'
+    url = 'https://blog.kooltechtricks.org'
+    weight = 2
+  [[menus.main]]
+    name = 'Поиск'
+    weight = 3
+    [menus.main.params]
+      type = 'search'
+  [[menus.main]]
+    name = 'Telegram-канал'
+    weight = 4
+    url = 'https://t.me/KoolTechTricks'
+    [menus.main.params]
+      icon = 'telegram'
+  [[menus.main]]
+    name = 'Fediverse (Mastodon)'
+    weight = 5
+    url = 'https://cr8r.gg/@KoolTechTricks'
+    [menus.main.params]
+      icon = 'mastodon'
+
+[params]
+displayUpdatedDate = true
+dateFormat = "2 January 2006 г."
+  [params.navbar]
+    displayTitle = true
+    displayLogo = true
+    [params.navbar.logo]
+      path = 'favicon.svg'
+      dark = 'favicon-dark.svg'
+      link = '/'
+      width = 40
+      height = 20

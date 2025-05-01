@@ -9,7 +9,7 @@
 Для начала вам понадобится установить следующее программное обеспечение:
 
 - [Git](https://git-scm.com/downloads)
-- [Hugo](https://gohugo.io/installation) v0.138.0 или выше
+- [Hugo](https://gohugo.io/installation) v0.147.0 или выше
 
 Далее используйте эти команды:
 

@@ -2,7 +2,7 @@
 
 Подробная информация про [Kool Tech Tricks](https://kooltechtricks.org).
 
-Сайт сделан на [Hugo](https://gohugo.io).
+Сайт сделан на [Hugo](https://gohugo.io) с использованием темы [Hextra].
 
 ## Локальный запуск
 

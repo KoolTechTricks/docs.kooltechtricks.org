@@ -39,7 +39,7 @@ weight: 1
 
 - Основной сайт: [kooltechtricks.org](https://kooltechtricks.org) (с 1 сен. 2024 г.)
 - Блог: [blog.kooltechtricks.org](https://blog.kooltechtricks.org) (с 27 декабря 2024 г.)
-- Документация: [docs.kooltechtricks.org](https://docs.kooltechtricks.org) (с ?? мая 2025 г.)
+- Документация: [docs.kooltechtricks.org](https://docs.kooltechtricks.org) (с 1 мая 2025 г.)
 
 Изначально основной сайт 27 августа 2023 г. был размещён на
 [Neocities](https://kooltechtricks.neocities.org).

@@ -12,6 +12,7 @@ cascade:
 {{< cards >}}
   {{< card link="about" title="О проекте" icon="information-circle" >}}
   {{< card link="faq" title="FAQ" icon="question-mark-circle" >}}
+  {{< card link="contributing" title="Внести вклад" icon="user-add" >}}
   {{< card link="https://kooltechtricks.org" title="Основной сайт" icon="external-link" >}}
   {{< card link="https://blog.kooltechtricks.org" title="Блог" icon="external-link" >}}
 {{< /cards >}}

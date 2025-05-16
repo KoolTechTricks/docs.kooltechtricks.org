@@ -9,7 +9,14 @@ Kool Tech Tricks — это коллаборативный ресурс, чем-
 
 Чтобы узнать, как внести свой вклад, читайте эту документацию.
 
+Вы также можете присоединиться к [публичным чатам], чтобы обсудить ваши
+изменения.
+
+[публичным чатам]: /about/contact#публичные-чаты
+
 > [!warning]
 > Новая документация находится в разработке.
 >
-> [Старая документация](https://github.com/KoolTechTricks/kooltechtricks.org/wiki)
+> Смотрите старую документацию:
+> - https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/CONTRIBUTING.md
+> - https://github.com/KoolTechTricks/kooltechtricks.org/wiki

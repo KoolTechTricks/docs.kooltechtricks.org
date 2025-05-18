@@ -20,3 +20,7 @@ Kool Tech Tricks — это коллаборативный ресурс, чем-
 > Смотрите старую документацию:
 > - https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/CONTRIBUTING.md
 > - https://github.com/KoolTechTricks/kooltechtricks.org/wiki
+
+{{< cards >}}
+  {{< card link="philosophy" title="Философия" >}}
+{{< /cards >}}

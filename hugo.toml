@@ -35,7 +35,10 @@ enableGitInfo = true
 
 [params]
 displayUpdatedDate = true
-dateFormat = "2 January 2006 г."
+dateFormat = '2 January 2006 г.'
+  [params.editURL]
+    enable = true
+    base = 'https://github.com/KoolTechTricks/docs.kooltechtricks.org/blob/main/content'
   [params.navbar]
     displayTitle = true
     displayLogo = true

@@ -16,4 +16,5 @@ weight: 1
   {{< card link="credits" title="Благодарности" icon="heart" >}}
   {{< card link="how-site-works" title="Как устроен сайт" icon="puzzle" >}}
   {{< card link="history" title="История" icon="rewind" >}}
+  {{< card link="branding" title="Брендинг" icon="camera" >}}
 {{< /cards >}}

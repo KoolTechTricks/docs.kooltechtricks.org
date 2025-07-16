@@ -23,4 +23,5 @@ Kool Tech Tricks — это коллаборативный ресурс, чем-
 
 {{< cards >}}
   {{< card link="philosophy" title="Философия" >}}
+  {{< card link="tables-format" title="Формат таблиц сравнения" >}}
 {{< /cards >}}

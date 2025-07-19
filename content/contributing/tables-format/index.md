@@ -31,9 +31,9 @@ summary: >
     <thead>
         <tr>
             <th>Фрукт</th>
-            <th><a href="https://ru.wikipedia.org/wiki/Яблоко" target="_blank" class="ignore-external"><img src="/assets/logos/apple.png" alt="Яблоко" width="64" height="64"><br>Яблоко</a></th>
-            <th><a href="https://ru.wikipedia.org/wiki/Банан" target="_blank" class="ignore-external"><img src="/assets/logos/banana.png" alt="Банан" width="64" height="64"><br>Банан</a></th>
-            <th><a href="https://ru.wikipedia.org/wiki/Апельсин" target="_blank" class="ignore-external"><img src="/assets/logos/orange.png" alt="Апельсин" width="64" height="64"><br>Апельсин</a></th>
+            <th><a href="https://ru.wikipedia.org/wiki/Яблоко" target="_blank"><img src="/assets/logos/apple.png" alt="Яблоко" width="64" height="64"><br>Яблоко</a></th>
+            <th><a href="https://ru.wikipedia.org/wiki/Банан" target="_blank"><img src="/assets/logos/banana.png" alt="Банан" width="64" height="64"><br>Банан</a></th>
+            <th><a href="https://ru.wikipedia.org/wiki/Апельсин" target="_blank"><img src="/assets/logos/orange.png" alt="Апельсин" width="64" height="64"><br>Апельсин</a></th>
         </tr>
     </thead>
     <tbody>
@@ -88,7 +88,7 @@ summary: >
 внутри `{{ }}`, на соответствующие значения.
 
 ```html
-<th><a href="{{ Ссылка на официальный сайт }}" target="_blank" class="ignore-external"><img src="/assets/logos/{{ Название файла логотипа/иконки }}" alt="{{ Название объекта сравнения }}" width="64" height="64"><br>{{ Название объекта сравнения }}</a></th>
+<th><a href="{{ Ссылка на официальный сайт }}" target="_blank"><img src="/assets/logos/{{ Название файла логотипа/иконки }}" alt="{{ Название объекта сравнения }}" width="64" height="64"><br>{{ Название объекта сравнения }}</a></th>
 ```
 
 ### Тело таблицы (оставшиеся строки)

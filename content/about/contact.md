@@ -15,7 +15,6 @@ weight: 2
 - Matrix: [@kttrickster:unredacted.org](https://go.kde.org/matrix/#/@kttrickster:unredacted.org)
 - [Delta Chat](https://i.delta.chat/#78ED26B846C41348A7A5577C5E679028824D07BF&a=a3lwoelhx@tarpit.fun&n=Trickster&i=G2kgpLQipK8BgYP5xes7nZrN&s=gOyR4LakdZokr4YrlWnQ7usN)
 - [SimpleX Chat](https://smp19.simplex.im/a#7wcigRUUL46nkBC_QKhUypb1IgM1TfeZqfymHdUtAWc)
-(Напишите в первом сообщении, что вам нужно, иначе диалог не будет начат)
 - Email: `kooltechnologytricks 🐶 gmail.com` (без шифрования)
 
 ## Публичные чаты

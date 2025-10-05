@@ -22,8 +22,9 @@ weight: 1
 
 ### Fediverse (Mastodon)
 
-- Действующий аккаунт: [@KoolTechTricks@cr8r.gg](https://cr8r.gg/@KoolTechTricks) (с 12 апреля 2025 г.)
-- Прошлый аккаунт: [@KoolTechTricks@lor.sh](https://lor.sh/@KoolTechTricks) (с 15 марта 2024 г.)
+- Действующий аккаунт: [@KoolTechTricks@posts.kooltechtricks.org](https://posts.kooltechtricks.org/@KoolTechTricks) (с 2 октября 2025 г.)
+- Предыдущий аккаунт: [@KoolTechTricks@cr8r.gg](https://cr8r.gg/@KoolTechTricks) (с 12 апреля 2025 г.)
+- Первый аккаунт: [@KoolTechTricks@lor.sh](https://lor.sh/@KoolTechTricks) (с 15 марта 2024 г.)
 
 Тоже основная платформа для публикации.
 

@@ -48,10 +48,10 @@ weight: 2
 Просто посмотрите насколько много весят скрипты аналитики Google и Яндекса по
 сравнению с Plausible:
 
-- Google Tag Manager `https://www.googletagmanager.com/gtag/js`: **~130 КБ**
-- Google Analytics `https://www.google-analytics.com/analytics.js`: **~50 КБ**
-- Яндекс Метрика `https://mc.yandex.ru/metrika/tag.js`: **~200 КБ**
-- Plausible `https://plausible.io/js/script.js`: **2,6 КБ**
+- Google Tag Manager `https://www.googletagmanager.com/gtag/js`: **196,9 КиБ**
+- Google Analytics `https://www.google-analytics.com/analytics.js`: **51,1 КиБ**
+- Яндекс Метрика `https://mc.yandex.ru/metrika/tag.js`: **236,5 КиБ**
+- Plausible `https://plausible.io/js/pa-6_srOGVV9SLMWJ1ZpUAbG.js`: **6,0 КиБ**
 
 Каждый раз, когда вы посещаете страницы сайтов с аналитикой от Google или
 Яндекса (а это более половины всех сайтов в Интернете), к вам загружаются

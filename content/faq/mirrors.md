@@ -16,9 +16,12 @@ weight: 3
 Зеркало на [Codeberg Pages](https://codeberg.page). Являлось основным местом
 размещения сайта после Neocities. Стабильная работа
 [не гарантируется](https://codeberg.org/Codeberg/pages-server/issues/399).
+
 - **[kooltechtricks.neocities.org](https://kooltechtricks.neocities.org):**
 Самый первый адрес сайта на [Neocities](https://neocities.org), впоследствии
 был архивирован, а ныне используется как зеркало.
+[Внутренний поиск по сайту](/faq/site-search) отключён из-за ограничений
+Neocities.
 
 Также вы можете просмотривать
 [исходные тексты страниц](https://github.com/KoolTechTricks/kooltechtricks.org).

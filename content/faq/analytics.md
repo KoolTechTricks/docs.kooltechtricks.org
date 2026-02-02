@@ -15,8 +15,8 @@ weight: 2
 — Блог
 
 > [!note]
-> Аналитика используется только на [основном сайте](https://kooltechtricks.org)
-и в [блоге](https://blog.kooltechtricks.org). В
+> Аналитика используется только на [основном сайте](https://kooltechtricks.org),
+[зеркалах](/faq/mirrors) и в [блоге](https://blog.kooltechtricks.org). В
 [документации](https://docs.kooltechtricks.org), которую вы сейчас читаете,
 аналитика **не используется**.
 

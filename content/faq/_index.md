@@ -8,4 +8,5 @@ weight: 2
 {{< cards >}}
   {{< card link="site-search" title="Поиск по сайту" icon="search" >}}
   {{< card link="analytics" title="Аналитика на сайте" icon="chart-bar" >}}
+  {{< card link="mirrors" title="Зеркала" >}}
 {{< /cards >}}

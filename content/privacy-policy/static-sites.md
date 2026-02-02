@@ -9,29 +9,33 @@ weight: 1
 собираются из содержимого текстовых файлов и распространяются в неизменном виде.
 Для этого не требуется специфической серверной обработки: сервер используется
 только для предоставления заранее заготовленных файлов, которые скачивает ваш
-браузер и отображает в читаемом для человека формате.
+браузер и отображает в читаемом для человека формате. Как результат, на
+статических сайтах не используются cookie и базы данных.
 
 [Статические сайты]: https://ru.wikipedia.org/wiki/Статический_сайт
 
 ## Область применения
 
-Мы обслуживаем следующие статические сайты: [kooltechtricks.org],
-[blog.kooltechtricks.org] и [docs.kooltechtricks.org].
+Мы обслуживаем следующие статические сайты:
 
-[kooltechtricks.org] и [blog.kooltechtricks.org] размещены на [Codeberg Pages],
-поэтому при их посещении применяется
-[политика конфиденциальности Codeberg]. Также на этих сайтах используется
-[аналитика Plausible](/privacy-policy/plausible-analytics).
+- [kooltechtricks.org] и [blog.kooltechtricks.org] размещены на выделенном
+сервере. Мы можем сохранять и анализировать журнал посещений (время, IP-адрес,
+полное содержимое HTTP-запроса) исключительно в целях отладки и диагностики.
+Это требуется редко, поэтому журнал посещений обычно не ведётся.
 
-[docs.kooltechtricks.org] размещён на [GitHub Pages], поэтому при его посещении
-применяется [политика конфиденциальности GitHub]. Аналитика Plausible на этом
-сайте не используется.
+- [Зеркала](/faq/mirrors) размещены на разных серверах, при посещении
+применяются соответствующие им политики конфиденциальности.
+
+- [docs.kooltechtricks.org] размещён на [GitHub Pages], поэтому при его
+посещении применяется [политика конфиденциальности GitHub].
+
+[Аналитика Plausible](/privacy-policy/plausible-analytics) используется на всех
+вышеперечисленных сайтах кроме [docs.kooltechtricks.org].
+
 
 [kooltechtricks.org]: https://kooltechtricks.org
 [blog.kooltechtricks.org]: https://blog.kooltechtricks.org
 [docs.kooltechtricks.org]: https://docs.kooltechtricks.org
-[Codeberg Pages]: https://codeberg.page
-[политика конфиденциальности Codeberg]: https://codeberg.org/Codeberg/org/src/branch/main/PrivacyPolicy.md
 [GitHub Pages]: https://github.io
 [политика конфиденциальности GitHub]: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
 

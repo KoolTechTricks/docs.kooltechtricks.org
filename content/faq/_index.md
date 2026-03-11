@@ -9,4 +9,5 @@ weight: 2
   {{< card link="site-search" title="Поиск по сайту" icon="search" >}}
   {{< card link="analytics" title="Аналитика на сайте" icon="chart-bar" >}}
   {{< card link="mirrors" title="Зеркала" >}}
+  {{< card link="legacy-pages" title="Устаревшие страницы" >}}
 {{< /cards >}}

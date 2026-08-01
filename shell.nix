@@ -7,7 +7,8 @@ let
 in
 pkgs.mkShellNoCC {
   packages = with pkgs; [
-    hugo
     git
+    hugo
+    codebook
   ];
 }

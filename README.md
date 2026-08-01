@@ -9,7 +9,8 @@
 Для начала вам понадобится установить следующее программное обеспечение:
 
 - [Git](https://git-scm.com/downloads)
-- [Hugo](https://gohugo.io/installation) v0.147.0 или выше
+- [Hugo](https://gohugo.io/installation) v0.162.0 или выше
+- [Codebook](https://github.com/blopker/codebook#readme) v0.3.42 или выше (для проверки орфографии)
 
 Далее используйте эти команды:
 
@@ -17,6 +18,10 @@
 git clone --recursive https://github.com/KoolTechTricks/docs.kooltechtricks.org
 cd docs.kooltechtricks.org
 hugo server -D -O  # -O, чтобы открыть в браузере
+
+# Codebook (CLI)
+codebook-lsp lint --unique . # Проверка орфографии
+codebook-lsp add <WORDS>... # Добавить слова
 ```
 
 Когда сервер Hugo запущен, вы можете открыть страницу `http://localhost:1313` в

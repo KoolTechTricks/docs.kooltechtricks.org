@@ -1,0 +1,5 @@
+#content > div > div ~ div > div a {
+  color: var(--hx-color-primary-600);
+  text-decoration-line: underline;
+  text-decoration-thickness: from-font;
+}
